@@ -1,6 +1,3 @@
-//Alexandru Lapsin
-//Homework #5
-
 import java.util.*;
 
 public class MyMap{
